@@ -1,7 +1,5 @@
 #!/usr/bin/env node
 
-var { 
-        controller: controller_a
-    } = require('../libs/logic');
+var { controller } = require('../src/controller');
 
-controller_a();
+controller();

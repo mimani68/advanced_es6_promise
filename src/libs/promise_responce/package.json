@@ -1,0 +1,11 @@
+{
+  "name": "promise-standard-responce",
+  "version": "1.0.0",
+  "description": "simple es6 standard responce in Promise base request",
+  "main": "responce.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahdi Imani <imani.mahdi@gmail.com>",
+  "license": "ISC"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mimani68/advanced_es6_promise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mimani68/advanced_es6_promise/issues"
+  },
+  "homepage": "https://github.com/mimani68/advanced_es6_promise#readme",
+  "dependencies": {
+    "mock_promise": "file:src/libs/mock_promise",
+    "promise-standard-responce": "file:src/libs/promise_responce",
+    "random_generator": "file:src/libs/random_generator"
+  }
+}

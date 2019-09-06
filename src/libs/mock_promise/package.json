@@ -1,0 +1,14 @@
+{
+  "name": "mock_promise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "promise_builder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahdi Imani <imani.mahdi@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "random_generator": "^1.0.0"
+  }
+}
